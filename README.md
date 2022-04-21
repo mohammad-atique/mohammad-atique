@@ -3,5 +3,4 @@
 
 <img align='right' src="./coding.gif" width="230">
 
-<a align="center" href="https://github.com/durgeshrai633/readme-typing-svg"><img align="center"
-        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
