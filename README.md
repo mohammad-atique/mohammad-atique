@@ -3,4 +3,5 @@
 
 <!-- <img align='right' src="./coding.gif" width="230"> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=&width=400&height=50"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
