@@ -3,6 +3,6 @@
 
 <!-- <img align='right' src="./coding.gif" width="230"> -->
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=&width=400&height=50"></a> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=&width=400&height=50" />
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) -->
