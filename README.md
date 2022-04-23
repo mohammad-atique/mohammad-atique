@@ -39,8 +39,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
 
-- 🛢
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- 🛢![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
