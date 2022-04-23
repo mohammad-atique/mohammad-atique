@@ -58,6 +58,11 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&theme=react&layout=compact" />
+        <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&show_icons=true&theme=react" height="255px" width="66.75%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&theme=react" height="254px" width="27.5%" />
+
+</div>
+
  </p>
