@@ -17,3 +17,12 @@
 <img src="https://komarev.com/ghpvc/?username=mohammad-atique&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-atique" />
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-atique&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-atique" /> </p> -->
+
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 💬 Ask me about something that goes with **JavaScript**
+
+- 📫 How to reach me **atiquemohd04@gmail.com**
+
+- 👨‍💻 All about me is at [My Website](https://)
