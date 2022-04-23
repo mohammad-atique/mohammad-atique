@@ -59,7 +59,7 @@
 
 <p align="center"> 
         <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&show_icons=true&theme=react" height="255px" width="66.75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&show_icons=true&include_all_commits=true&theme=react" height="255px" width="66.75%"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&theme=react" height="254px" width="27.5%" />
 
