@@ -51,6 +51,6 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-atique/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afzal%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:atiquemohd04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Afzal%20Ahmad-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mohammad-atique/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Atique-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:atiquemohd04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Mohammad%20Atique-blue?style=flat-square&logo=gmail"></a>
 </p>
