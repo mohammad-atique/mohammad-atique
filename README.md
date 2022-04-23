@@ -54,3 +54,10 @@
 <a href="https://www.linkedin.com/in/mohammad-atique/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Atique-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:atiquemohd04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Mohammad%20Atique-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<h3>⚙️ GitHub Analytics</h3>
+
+<p align="center"> 
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&theme=react&layout=compact" />
+ </p>
