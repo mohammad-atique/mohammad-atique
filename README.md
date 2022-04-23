@@ -49,7 +49,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<h3>&nbsp;Connect with Me </h3>
+<h3>☕ Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammad-atique/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Atique-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:atiquemohd04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Mohammad%20Atique-blue?style=flat-square&logo=gmail"></a>
@@ -66,3 +66,8 @@
 </div>
 
  </p>
+
+
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
