@@ -60,9 +60,9 @@
 <p align="center"> 
         <div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Atique's Stats](https://github-readme-stats.vercel.app/api?username=mohammad-atique&theme=highcontrast&hide_rank=1&show_icons=1&count_private=1&hide=stars,issues&disable_animations=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Atique's Stats](https://github-readme-stats.vercel.app/api?username=mohammad-atique&theme=highcontrast&hide_rank=1&show_icons=1&count_private=1&hide=stars&theme=vision-friendly-dark,issues&disable_animations=1)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  </p>
   <p align="center">
