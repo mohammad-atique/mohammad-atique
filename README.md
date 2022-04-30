@@ -59,12 +59,13 @@
 
 <p align="center"> 
         <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-atique&show_icons=true&include_all_commits=true&theme=react" height="255px" width="66.75%"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-atique&theme=react"  height="254px" width="27.5%" />
-
+[![Atique's Stats](https://github-readme-stats.vercel.app/api?username=mohammad-atique&theme=highcontrast&hide_rank=1&show_icons=1&count_private=1&hide=stars,issues&disable_animations=1)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  </p>
   <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
+
+
