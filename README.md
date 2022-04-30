@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **atiquemohd04@gmail.com**
 
-- 👨‍💻 All about me is at [My Website](https://)
+- 👨‍💻 All about me is at [My Portfolio Website](https://atique-portfolio.netlify.app/)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
